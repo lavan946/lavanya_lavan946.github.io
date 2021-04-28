@@ -5,9 +5,10 @@ Hi Everyone....Happy to announce our one month free fashion designing basic cour
 </b>.
 One of the top designer MS.DHAMINI will be handling this course.Live sessions will be carried out and students will recieve participation certificate.For top projects LAHA will offer scholarship to do diploma in fahion designing.
  <img src="https://github.com/lavan946/lavanya_lavan946.github.io/blob/main/IMG_20210428_181112.jpg"> </a>
-<br>I got to have hands on experience on:
-<li>HTML
-<li>CSS
+<br>Cons of attending the course:
+<li>learn easy techniques
+<li>play with embroydery
+<li>easy on aari work
 <br>during these 7 days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
