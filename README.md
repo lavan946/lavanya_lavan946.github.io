@@ -1,11 +1,10 @@
 # lavanya_lavan946.github.io
-WEB-DEV BOOTCAMP SHAPEAI
-# SHAPEAI WEB DEV BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+FASHION DESIGNING ONLINE COURSE LAHA
+# LAHA FASHION DESIGNERY ONLINE COURSE FOR FREE!!!!!!
+Hi Everyone....Happy to announce our one month free fashion designing basic course,organized by <b> LAHA
 </b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
+One of the top designer MS.DHAMINI will be handling this course.Live sessions will be carried out and students will recieve participation certificate.For top projects LAHA will offer scholarship to do diploma in fahion designing.
+<br><br>Here's the link for you to watch the sessions <br>
 <a href="https://youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png"> </a>
 <br>I got to have hands on experience on:
 <li>HTML
