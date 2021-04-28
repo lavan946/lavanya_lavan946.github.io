@@ -4,7 +4,7 @@ FASHION DESIGNING ONLINE COURSE LAHA
 Hi Everyone....Happy to announce our one month free fashion designing basic course,organized by <b> LAHA
 </b>.
 One of the top designer MS.DHAMINI will be handling this course.Live sessions will be carried out and students will recieve participation certificate.For top projects LAHA will offer scholarship to do diploma in fahion designing.
- <img src="https://github.com/lavan946/lavanya_lavan946.github.io/pull/1#issue-625207114"> </a>
+ <img src="https://github.com/lavan946/lavanya_lavan946.github.io/blob/main/IMG_20210428_181112.jpg"> </a>
 <br>I got to have hands on experience on:
 <li>HTML
 <li>CSS
