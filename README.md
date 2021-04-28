@@ -1,3 +1,4 @@
+![IMG_20210428_181112](https://user-images.githubusercontent.com/83326784/116407524-7abcac00-a84f-11eb-8c79-721f635bd744.jpg)
 # lavanya_lavan946.github.io
 FASHION DESIGNING ONLINE COURSE LAHA
 # LAHA FASHION DESIGNERY ONLINE COURSE FOR FREE!!!!!!
@@ -9,7 +10,9 @@ One of the top designer MS.DHAMINI will be handling this course.Live sessions wi
 <br>I got to have hands on experience on:
 <li>HTML
 <li>CSS
-<br>during these 7 days, and everything was explained from the very basics so that
+<br>during these 7 days, and everything was explained from the very basics so that![IMG_20210428_181112](https://user-images.githubusercontent.com/83326784/116407755-b788a300-a84f-11eb-8fad-959fb4749514.jpg)
+![IMG_20210428_181112](https://user-images.githubusercontent.com/83326784/116407807-c53e2880-a84f-11eb-8b18-d3b19ace1660.jpg)
+
 anyone with zero experience on programming can learn.
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
 www.shapeai.tech
