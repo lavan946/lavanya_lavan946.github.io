@@ -8,7 +8,8 @@ One of the top designer MS.DHAMINI will be handling this course.Live sessions wi
 <br>Cons of attending the course:
 <li>learn easy techniques
 <li>play with embroydery
-<li>easy on aari work
+<li>explore aari work
+<li>verified valid certificate
 <br>during these 7 days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
